@@ -1,0 +1,30 @@
+.container {
+  flex: 0 0 auto;
+  width: 200px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+}
+.text {
+  color: #ffffff;
+}
+@media(max-width: 479px) {
+  .container {
+    width: 108px;
+    height: 37px;
+    margin: 0px;
+    align-self: center;
+    padding-top: 0px;
+    border-style: hidden;
+    border-radius: 10px;
+    background-color: #3E5E3C;
+  }
+  .text {
+    font-style: normal;
+    font-family: Rajdhani;
+    font-weight: 500;
+    border-radius: 14px;
+  }
+}
