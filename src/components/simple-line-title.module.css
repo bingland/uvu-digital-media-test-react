@@ -25,7 +25,11 @@
     width: 90%;
     height: 68px;
     margin-left: 0px;
-    border-color: #b1b1b1;
+    border-color: #afafaf;
+    border-width: 1px;
+    border-top-width: 0px;
+    border-left-width: 00px;
+    border-right-width: 0px;
   }
   .text {
     font-size: 24px;

@@ -8,6 +8,8 @@ import WhiteCardTextBtn from '../components/white-card-text-btn'
 import GreenTitleWhiteCard from '../components/green-title-white-card'
 import SimpleLineTitle from '../components/simple-line-title'
 import NewsEventTile from '../components/news-event-tile'
+import GreenMidArea from '../components/green-mid-area'
+import TitleWithText from '../components/title-with-text'
 import styles from './home.module.css'
 
 const Home = () => {
@@ -35,6 +37,10 @@ const Home = () => {
         text1="Digital media Department Share the Untold Stories of Namibian Women"
         rootClassName="rootClassName"
       ></NewsEventTile>
+      <div className={styles['container6']}></div>
+      <GreenMidArea></GreenMidArea>
+      <div className={styles['container7']}></div>
+      <TitleWithText></TitleWithText>
     </div>
   )
 }

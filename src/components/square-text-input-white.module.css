@@ -1,0 +1,18 @@
+.container {
+  display: flex;
+  position: relative;
+}
+
+@media(max-width: 479px) {
+  .textinput {
+    font-size: 21px;
+    padding-top: 10px;
+    padding-left: 15px;
+    margin-bottom: 0px;
+    padding-right: 15px;
+    padding-bottom: 10px;
+  }
+  .rootClassName {
+    margin-bottom: 20px;
+  }
+}

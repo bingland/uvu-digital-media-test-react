@@ -55,12 +55,20 @@
 }
 .text1 {
   color: #3e5e3c;
-  width: 230px;
+  width: 225px;
+  height: 100%;
+  padding-top: 18px;
+  border-color: #878787;
+  border-width: 1px;
   padding-left: 20px;
+  padding-bottom: 18px;
+  border-top-width: 0px;
+  border-left-width: 0px;
+  border-bottom-width: 0px;
 }
 .image1 {
-  width: 25px;
-  height: 25px;
+  width: 21px;
+  height: 21px;
   object-fit: cover;
   margin-right: 20px;
 }
