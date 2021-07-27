@@ -18,13 +18,13 @@ const SquareTextInputWhite = (props) => {
 }
 
 SquareTextInputWhite.defaultProps = {
-  textinput_placeholder: 'placeholder',
   rootClassName: '',
+  textinput_placeholder: 'placeholder',
 }
 
 SquareTextInputWhite.propTypes = {
-  textinput_placeholder: PropTypes.string,
   rootClassName: PropTypes.string,
+  textinput_placeholder: PropTypes.string,
 }
 
 export default SquareTextInputWhite

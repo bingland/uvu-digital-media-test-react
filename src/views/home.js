@@ -21,25 +21,23 @@ const Home = () => {
       </Helmet>
       <Navbar></Navbar>
       <div className={styles['container1']}></div>
-      <Component3></Component3>
-      <div className={styles['container2']}></div>
-      <WhiteCardTextBtn></WhiteCardTextBtn>
-      <div className={styles['container3']}></div>
+      <Component3 rootClassName="rootClassName"></Component3>
+      <WhiteCardTextBtn rootClassName="rootClassName"></WhiteCardTextBtn>
       <GreenTitleWhiteCard rootClassName="rootClassName"></GreenTitleWhiteCard>
-      <div className={styles['container4']}></div>
+      <div className={styles['container2']}></div>
       <SimpleLineTitle
         text="News &amp; Events"
         rootClassName="rootClassName"
       ></SimpleLineTitle>
-      <div className={styles['container5']}></div>
+      <div className={styles['container3']}></div>
       <NewsEventTile
         text="Read Full Article"
         text1="Digital media Department Share the Untold Stories of Namibian Women"
         rootClassName="rootClassName"
       ></NewsEventTile>
-      <div className={styles['container6']}></div>
-      <GreenMidArea></GreenMidArea>
-      <div className={styles['container7']}></div>
+      <div className={styles['container4']}></div>
+      <GreenMidArea text2="Look at Scholarships"></GreenMidArea>
+      <div className={styles['container5']}></div>
       <TitleWithText></TitleWithText>
     </div>
   )

@@ -22,6 +22,7 @@
   border-bottom-left-radius: var(--dl-radius-radius-radius4);
   border-bottom-right-radius: Radius 0;
 }
+
 @media(max-width: 479px) {
   .container {
     width: 233px;
@@ -41,5 +42,8 @@
     font-family: Rajdhani;
     font-weight: 700;
     padding-left: var(--dl-space-space-unit);
+  }
+  .rootClassName {
+    margin-bottom: 20px;
   }
 }

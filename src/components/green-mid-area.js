@@ -11,15 +11,15 @@ const GreenMidArea = (props) => {
     <div className={styles['container']}>
       <span className={styles['text']}>{props.text}</span>
       <SquareTextInputWhite
-        textinput_placeholder="Search..."
         rootClassName="rootClassName"
+        textinput_placeholder="Search..."
       ></SquareTextInputWhite>
       <span className={styles['text1']}>{props.text1}</span>
-      <Component1 rootClassName="rootClassName" button="Advising"></Component1>
+      <Component1 button="Advising" rootClassName="rootClassName"></Component1>
       <span className={styles['text2']}>{props.text2}</span>
       <Component1
-        rootClassName="rootClassName1"
         button="Scholarships"
+        rootClassName="rootClassName1"
       ></Component1>
     </div>
   )
