@@ -1,0 +1,324 @@
+.Frame29124 {
+  width: 100%;
+  height: 640px;
+  display: flex;
+  flex-grow: 0;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: rgba(255, 255, 255, 1);
+  background-color: rgba(255, 255, 255, 1);
+}
+.Frame19125 {
+  width: 320px;
+  height: 640px;
+  display: flex;
+  flex-grow: 0;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(255, 255, 255, 1);
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.Frame29126 {
+  display: flex;
+  padding: 16px 20px;
+  flex-grow: 0;
+  align-self: stretch;
+  box-sizing: border-box;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  justify-content: space-between;
+}
+.image {
+  width: 100px;
+  height: 22.166656494140625px;
+  margin: 0 10px 0 0;
+  flex-grow: 0;
+  object-fit: cover;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.navlink {
+  display: contents;
+}
+.Button9128 {
+  display: flex;
+  padding: 12px 16px;
+  flex-grow: 0;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+  background-color: rgba(0, 0, 0, 0);
+}
+.text {
+  color: black;
+  width: auto;
+  height: auto;
+  margin: 0;
+  flex-grow: 0;
+  font-size: 12px;
+  align-self: auto;
+  font-style: normal;
+  text-align: right;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+}
+.rectangle {
+  height: 1px;
+  flex-grow: 0;
+  align-self: stretch;
+  border-color: #E6E6E6;
+  background-color: #E6E6E6;
+}
+.Frame39131 {
+  display: flex;
+  padding: 48px 32px;
+  flex-grow: 0;
+  align-self: stretch;
+  box-sizing: border-box;
+  align-items: center;
+  flex-shrink: 1;
+  border-color: transparent;
+  flex-direction: column;
+}
+.Frame49132 {
+  margin: 0 0 32px 0;
+  display: flex;
+  flex-grow: 0;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  flex-direction: column;
+}
+.text1 {
+  color: black;
+  width: 280px;
+  height: 39px;
+  margin: 0 0 8px 0;
+  flex-grow: 0;
+  font-size: 32px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text2 {
+  color: black;
+  width: 280px;
+  height: 19px;
+  margin: 0;
+  flex-grow: 0;
+  font-size: 16px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+}
+.Frame89150 {
+  display: flex;
+  flex-grow: 0;
+  align-self: stretch;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  flex-direction: column;
+}
+.Button9135 {
+  margin: 0 0 12px 0;
+  display: flex;
+  padding: 12px 16px;
+  flex-grow: 0;
+  align-self: stretch;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(162, 162, 162, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.text3 {
+  color: #A3A3A3;
+  width: auto;
+  height: auto;
+  margin: 0;
+  flex-grow: 0;
+  font-size: 12px;
+  align-self: auto;
+  font-style: normal;
+  text-align: right;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.Button9146 {
+  margin: 0 0 12px 0;
+  display: flex;
+  padding: 12px 16px;
+  flex-grow: 0;
+  align-self: stretch;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(162, 162, 162, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.text4 {
+  color: #A3A3A3;
+  width: auto;
+  height: auto;
+  margin: 0;
+  flex-grow: 0;
+  font-size: 12px;
+  align-self: auto;
+  font-style: normal;
+  text-align: right;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.navlink1 {
+  display: contents;
+}
+.Button9148 {
+  display: flex;
+  padding: 12px 16px;
+  flex-grow: 0;
+  align-self: stretch;
+  box-sizing: border-box;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(18, 18, 18, 1);
+  border-radius: 4px;
+  justify-content: center;
+  background-color: rgba(18, 18, 18, 1);
+}
+.text5 {
+  color: white;
+  width: auto;
+  height: auto;
+  margin: 0;
+  flex-grow: 0;
+  font-size: 12px;
+  align-self: auto;
+  font-style: normal;
+  text-align: right;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+}
+.Frame79137 {
+  display: flex;
+  padding: 12px 20px 24px 20px;
+  flex-grow: 0;
+  align-self: stretch;
+  box-sizing: border-box;
+  align-items: center;
+  flex-shrink: 1;
+  border-color: transparent;
+  flex-direction: column;
+  justify-content: center;
+}
+.text6 {
+  color: #1E1E1E;
+  width: auto;
+  height: 26px;
+  margin: 0 0 12px 0;
+  flex-grow: 0;
+  font-size: 11px;
+  align-self: stretch;
+  font-style: normal;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+}
+.Frame59139 {
+  margin: 0 0 12px 0;
+  display: flex;
+  flex-grow: 0;
+  align-self: stretch;
+  box-sizing: border-box;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  justify-content: center;
+}
+.image1 {
+  width: 79.875px;
+  height: 19px;
+  margin: 0 24px 0 0;
+  flex-grow: 0;
+  object-fit: cover;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.image2 {
+  width: 69.5px;
+  height: 21px;
+  margin: 0 24px 0 0;
+  flex-grow: 0;
+  object-fit: cover;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.image3 {
+  width: 78.25px;
+  height: 19px;
+  flex-grow: 0;
+  object-fit: cover;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.Frame69143 {
+  display: flex;
+  flex-grow: 0;
+  align-self: stretch;
+  box-sizing: border-box;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  justify-content: center;
+}
+.image4 {
+  width: 87px;
+  height: 20px;
+  margin: 0 24px 0 0;
+  flex-grow: 0;
+  object-fit: cover;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.image5 {
+  width: 69px;
+  height: 20px;
+  flex-grow: 0;
+  object-fit: cover;
+  flex-shrink: 0;
+  border-color: transparent;
+}

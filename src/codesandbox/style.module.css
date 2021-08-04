@@ -1,0 +1,35 @@
+.Heading2 {
+  font-size: 72px;
+  font-style: normal;
+  font-family: Inter;
+  font-weight: 500;
+  font-stretch: normal;
+}
+.Heading1 {
+  font-size: 96px;
+  font-style: normal;
+  font-family: Inter;
+  font-weight: 500;
+  font-stretch: normal;
+}
+.Subheading1 {
+  font-size: 48px;
+  font-style: normal;
+  font-family: Inter;
+  font-weight: 400;
+  font-stretch: normal;
+}
+.Subheading2 {
+  font-size: 36px;
+  font-style: normal;
+  font-family: Inter;
+  font-weight: 400;
+  font-stretch: normal;
+}
+.Small1 {
+  font-size: 24px;
+  font-style: italic;
+  font-family: Inter;
+  font-weight: 400;
+  font-stretch: normal;
+}

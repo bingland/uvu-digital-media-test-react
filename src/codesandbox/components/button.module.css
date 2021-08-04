@@ -1,0 +1,27 @@
+.Button9715 {
+  margin: 0px 0px 0px 0px;
+  display: flex;
+  padding: 12px 16px;
+  flex-grow: 0;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: rgba(18, 18, 18, 1);
+  border-radius: 4px;
+  background-color: rgba(18, 18, 18, 1);
+}
+.text {
+  color: white;
+  width: auto;
+  height: auto;
+  margin: 0;
+  flex-grow: 0;
+  font-size: 12px;
+  align-self: auto;
+  font-style: normal;
+  text-align: right;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+}
